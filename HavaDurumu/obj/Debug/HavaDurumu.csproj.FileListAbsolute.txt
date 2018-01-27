@@ -1,0 +1,6 @@
+c:\users\mert\documents\visual studio 2017\Projects\HavaDurumu\HavaDurumu\bin\HavaDurumu.dll.config
+c:\users\mert\documents\visual studio 2017\Projects\HavaDurumu\HavaDurumu\bin\HavaDurumu.dll
+c:\users\mert\documents\visual studio 2017\Projects\HavaDurumu\HavaDurumu\bin\HavaDurumu.pdb
+c:\users\mert\documents\visual studio 2017\Projects\HavaDurumu\HavaDurumu\obj\Debug\HavaDurumu.csprojResolveAssemblyReference.cache
+c:\users\mert\documents\visual studio 2017\Projects\HavaDurumu\HavaDurumu\obj\Debug\HavaDurumu.dll
+c:\users\mert\documents\visual studio 2017\Projects\HavaDurumu\HavaDurumu\obj\Debug\HavaDurumu.pdb
