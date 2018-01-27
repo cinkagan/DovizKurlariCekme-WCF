@@ -1,0 +1,6 @@
+c:\users\mert\documents\visual studio 2017\Projects\KurlarServis\KurlarServis\bin\KurlarServis.dll.config
+c:\users\mert\documents\visual studio 2017\Projects\KurlarServis\KurlarServis\bin\KurlarServis.dll
+c:\users\mert\documents\visual studio 2017\Projects\KurlarServis\KurlarServis\bin\KurlarServis.pdb
+c:\users\mert\documents\visual studio 2017\Projects\KurlarServis\KurlarServis\obj\Debug\KurlarServis.dll
+c:\users\mert\documents\visual studio 2017\Projects\KurlarServis\KurlarServis\obj\Debug\KurlarServis.pdb
+c:\users\mert\documents\visual studio 2017\Projects\KurlarServis\KurlarServis\obj\Debug\KurlarServis.csprojResolveAssemblyReference.cache
